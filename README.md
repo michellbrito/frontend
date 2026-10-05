@@ -1,5 +1,6 @@
 # components
 
-| Component Name |                             Component Link                             | YouTube Link |
-| :------------: | :--------------------------------------------------------------------: | ------------ |
-| Order Summary  | https://components.michellbrito.com/?path=/story/ordersummary--default | N/A          |
+| Component Name |                             Component Link                             |
+| :------------: | :--------------------------------------------------------------------: |
+| Order Summary  | https://storybook.michellbrito.com/?path=/story/components-order-summary--default|
+| QR Code  | https://storybook.michellbrito.com/?path=/story/components-qr-code--default|
